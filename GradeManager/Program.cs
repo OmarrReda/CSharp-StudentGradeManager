@@ -52,7 +52,7 @@ namespace GradeManager
                 return;
             }
 
-            Console.Write("Please enter course ID: ");
+            Console.Write("Please enter course ID. EX:'math101': ");
             string courseID = Console.ReadLine().ToLower().Trim();
             if (int.TryParse(courseID, out int validate))
             {

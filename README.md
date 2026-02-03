@@ -36,3 +36,36 @@ This project was built to practice **OOP principles**, data structures, and clea
 
 > Business logic is kept out of `Program.cs` as much as possible.
 
+---
+
+## ▶️ How to Run
+
+1. Open the project in **Visual Studio**
+2. Build the solution
+3. Run the program
+4. Use the menu to interact with the system
+
+---
+
+## 🧪 Example Actions
+
+- Add a student → `ID: 101`
+- Add a course → `ID: cs101`
+- Assign grade → Student `101`, Course `cs101`, Grade `90`
+- Calculate averages
+- Generate reports
+
+---
+
+## 🎯 Learning Goals
+
+This project focuses on:
+- Object-Oriented Programming (OOP)
+- Separation of concerns
+- Dictionaries & Lists
+- Nullable types (`double?`)
+- Clean method responsibilities
+- Avoiding tight coupling with `Console.WriteLine`
+
+---
+
