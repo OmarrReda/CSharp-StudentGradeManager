@@ -17,15 +17,6 @@ This project was built to practice **OOP principles**, data structures, and clea
 - Generate reports without tightly coupling logic to console output
 - Menu-driven console interface
 
----
-
-## 🧱 Project Structure
-GradeManager/
-│
-├── Program.cs // Application entry point & menu logic
-├── Student.cs // Student entity (ID, Name, Grades)
-├── Course.cs // Course entity (ID, Name, Enrolled Students)
-└── Grade.cs // Manager class (students, courses, reports)
 
 ---
 
